@@ -1,0 +1,18 @@
+comando git   -  exemplo de uso       -       operação
+ 
+  config      -   git config -- global- configura o ususario e e-mail
+		 user.name user.email
+
+  help        -  git help <comando>   -  obtém ajuda sobre um comando especifico
+
+  init        -  git init             -  inicializar um repositorio em uma pasta
+
+  status      -  git status           -  verificar a situação (status) do repositorio
+  
+  add <file>  -  git add.| git add    -  adiciona um arquivo ou mais arquivos ao staging area
+		<arquivo>
+
+  commit      -  git commit -m        - cria versão(commita) o repositorio
+		"mensagem"
+
+  reset       - git reset             - volta o estado da versão 
